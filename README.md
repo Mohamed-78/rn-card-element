@@ -31,7 +31,7 @@ const App = () => {
 };
 export default App;
 ```
-#Personnalisation
+# Personnalisation
 
 Vous pouvez également personnaliser l'apparence du composant en utilisant les propriétés disponibles.
 
