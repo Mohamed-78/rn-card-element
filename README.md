@@ -9,5 +9,38 @@ A simple React Native component for displaying a card.
 
 ```bash
 npm install react-native-card-element
+```
 
-#Utilisation
+# Utilisation
+
+Importez le composant Card dans la partie où vous souhaitez l'utiliser.
+
+Exemple :
+
+```jsx
+import React from 'react';
+import { View } from 'react-native';
+import Card from 'react-native-card-element';
+
+const App = () => {
+  return (
+    <View>
+      <Card />
+    </View>
+  );
+};
+export default App;
+```
+#Personnalisation
+
+Vous pouvez également personnaliser l'apparence du composant en utilisant les propriétés disponibles.
+
+Par exemple :
+```jsx
+<Card
+  title={"Titre de la carte"}
+  subtitle={"Sous-titre de la carte"}
+  description={"Voici une petite description du contenu de la carte. Rien de plus, rien de moins."}
+/>
+```
+
