@@ -9,7 +9,3 @@ A simple React Native component for displaying a card.
 
 ```bash
 npm install react-native-card-element
-
-## How to use ?
-#Step 1
-#install this package
