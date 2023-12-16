@@ -1,6 +1,6 @@
 {
     "name": "@Mohamed-78/react-native-card-element",
-    "version": "1.0.3",
+    "version": "1.0.6",
     "description": "A custom React Native 'Cards' component, offering simple integration and flexibility for mobile projects.",
     "main": "index.jsx",
     "scripts": {
@@ -8,7 +8,7 @@
     },
     "repository": {
       "type": "git",
-      "url": ""
+      "url": "https://github.com/Mohamed-78/rn-card-element"
     },
     "keywords": [
       "react-native",
