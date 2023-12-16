@@ -44,3 +44,7 @@ Par exemple :
 />
 ```
 
+# Liste des propriétés de personnalisation 
+```txt
+description, title, subtitle, style, width, height
+
