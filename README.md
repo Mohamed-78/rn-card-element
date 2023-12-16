@@ -11,11 +11,11 @@ A simple React Native component for displaying a card.
 npm install react-native-card-element
 ```
 
-# Utilisation
+## Usage
 
-Importez le composant Card dans la partie où vous souhaitez l'utiliser.
+Import the Card component into the part where you want to use it.
 
-Exemple :
+Example :
 
 ```jsx
 import React from 'react';
@@ -31,20 +31,20 @@ const App = () => {
 };
 export default App;
 ```
-# Personnalisation
+## Customization
 
-Vous pouvez également personnaliser l'apparence du composant en utilisant les propriétés disponibles.
+You can also customize the appearance of the component by using the available properties.
 
-Par exemple :
+For example :
 ```jsx
 <Card
-  title={"Titre de la carte"}
-  subtitle={"Sous-titre de la carte"}
-  description={"Voici une petite description du contenu de la carte. Rien de plus, rien de moins."}
+  title={"Card Title"}
+  subtitle={"Card Subtitle"}
+  description={"Here's a small text description for the card content. Nothing more, nothing less."}
 />
 ```
 
-# Liste des propriétés de personnalisation 
+## List of Customization Properties
 ```txt
 description, title, subtitle, style, width, height
 
