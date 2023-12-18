@@ -43,6 +43,7 @@ For example :
   description={"Here's a small text description for the card content. Nothing more, nothing less."}
 />
 ```
+[![npm](https://img.shields.io/npm/dt/react-native-card-element.svg)](https://www.npmjs.com/package/react-native-card-element)
 
 ## List of Customization Properties
 ```txt
