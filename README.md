@@ -2,6 +2,7 @@
 
 ![npm version](https://img.shields.io/npm/v/react-native-card-element.svg)
 ![license](https://img.shields.io/npm/l/react-native-card-element.svg)
+[![npm](https://img.shields.io/npm/dt/react-native-card-element.svg)](https://www.npmjs.com/package/react-native-card-element)
 
 A simple React Native component for displaying a card.
 
@@ -43,7 +44,6 @@ For example :
   description={"Here's a small text description for the card content. Nothing more, nothing less."}
 />
 ```
-[![npm](https://img.shields.io/npm/dt/react-native-card-element.svg)](https://www.npmjs.com/package/react-native-card-element)
 
 ## List of Customization Properties
 ```txt
